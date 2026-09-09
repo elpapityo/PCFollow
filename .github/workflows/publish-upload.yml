@@ -2,6 +2,9 @@ name: Publish PC Follow upload
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'upload/PCFollow_v*.zip'
 
 permissions:
   contents: write
