@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'upload/PCFollow_v*.zip'
+      - 'upload/**'
 
 permissions:
   contents: write
