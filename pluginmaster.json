@@ -1,0 +1,17 @@
+[
+  {
+    "Author": "Elpa",
+    "Name": "PC Follow",
+    "Punchline": "PT外PCをロックし、戦闘中やエリア移動後も追従します。",
+    "Description": "開始時に選んだPCを記憶し、標準Follow型またはVNA型で追従。戦闘・エリア移動後の自動復帰と、追従相手HP低下時の指定スキルに対応します。",
+    "InternalName": "PCFollow",
+    "AssemblyVersion": "0.1.11.0",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/elpapityo/PCFollow",
+    "DownloadLinkInstall": "https://github.com/elpapityo/PCFollow/releases/download/V0.1.11/PCFollow_v0.1.11.zip",
+    "DownloadLinkUpdate": "https://github.com/elpapityo/PCFollow/releases/download/V0.1.11/PCFollow_v0.1.11.zip",
+    "DownloadLinkTesting": "https://github.com/elpapityo/PCFollow/releases/download/V0.1.11/PCFollow_v0.1.11.zip",
+    "IconUrl": "https://raw.githubusercontent.com/elpapityo/PCFollow/main/images/icon.png?v=0.1.11"
+  }
+]
