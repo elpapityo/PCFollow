@@ -2,9 +2,9 @@
   "Author": "Elpa",
   "Name": "PC Follow",
   "Punchline": "PT外PCをロックし、戦闘中やエリア移動後も追従します。",
-  "Description": "開始時に選んだPCを記憶し、以後ターゲットし続けなくても追従します。標準Follow型とVNA型追従を選択可能。戦闘・エリア移動後の自動復帰、追従相手HP低下時の指定スキル実行に対応します。",
+  "Description": "開始時に選んだPCを記憶し、以後ターゲットし続けなくても追従します。標準Follow型とVNA型追従を選択可能。戦闘・エリア移動後の自動復帰、通常モードのHP低下時指定スキル、賢者バリアモードのバリア最優先再付与に対応します。",
   "InternalName": "PCFollow",
-  "AssemblyVersion": "0.1.11.0",
+  "AssemblyVersion": "0.1.13.0",
   "DalamudApiLevel": 15,
   "ApplicableVersion": "any",
   "Tags": [
@@ -14,5 +14,6 @@
   ],
   "LoadRequiredState": 0,
   "LoadSync": false,
-  "CanUnloadAsync": false
+  "CanUnloadAsync": false,
+  "IconUrl": "https://raw.githubusercontent.com/elpapityo/PCFollow/main/images/icon.png?v=0.1.13"
 }
