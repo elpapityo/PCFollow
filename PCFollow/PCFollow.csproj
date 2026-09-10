@@ -1,9 +1,9 @@
 <Project Sdk="Dalamud.NET.Sdk/15.0.0">
   <PropertyGroup>
-    <Version>0.1.11</Version>
-    <AssemblyVersion>0.1.11.0</AssemblyVersion>
-    <FileVersion>0.1.11.0</FileVersion>
-    <Description>Lock and follow a selected player using native follow or vnavmesh, including combat/zone recovery and HP-triggered skill support.</Description>
+    <Version>0.1.13</Version>
+    <AssemblyVersion>0.1.13.0</AssemblyVersion>
+    <FileVersion>0.1.13.0</FileVersion>
+    <Description>Lock and follow a selected player using native follow or vnavmesh, including combat/zone recovery, HP-triggered skill support, and a Sage barrier-priority mode.</Description>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 </Project>
