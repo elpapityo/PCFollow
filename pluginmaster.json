@@ -5,13 +5,13 @@
     "Punchline": "PT外PCをロックし、戦闘中やエリア移動後も追従します。",
     "Description": "開始時に選んだPCを記憶し、標準Follow型またはVNA型で追従。戦闘・エリア移動後の自動復帰、通常モードのHP低下時指定スキル、賢者バリアモードのバリア最優先再付与に対応します。",
     "InternalName": "PCFollow",
-    "AssemblyVersion": "0.1.13.0",
+    "AssemblyVersion": "0.1.14.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/elpapityo/PCFollow",
-    "DownloadLinkInstall": "https://github.com/elpapityo/PCFollow/releases/download/V0.1.13/PCFollow_v0.1.13.zip",
-    "DownloadLinkUpdate": "https://github.com/elpapityo/PCFollow/releases/download/V0.1.13/PCFollow_v0.1.13.zip",
-    "DownloadLinkTesting": "https://github.com/elpapityo/PCFollow/releases/download/V0.1.13/PCFollow_v0.1.13.zip",
-    "IconUrl": "https://raw.githubusercontent.com/elpapityo/PCFollow/main/images/icon.png?v=0.1.13"
+    "DownloadLinkInstall": "https://github.com/elpapityo/PCFollow/releases/download/V0.1.14/PCFollow_v0.1.14.zip",
+    "DownloadLinkUpdate": "https://github.com/elpapityo/PCFollow/releases/download/V0.1.14/PCFollow_v0.1.14.zip",
+    "DownloadLinkTesting": "https://github.com/elpapityo/PCFollow/releases/download/V0.1.14/PCFollow_v0.1.14.zip",
+    "IconUrl": "https://raw.githubusercontent.com/elpapityo/PCFollow/main/images/icon.png?v=0.1.14"
   }
 ]
